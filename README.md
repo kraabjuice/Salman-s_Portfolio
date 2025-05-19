@@ -1,4 +1,4 @@
-# Salman-s_Portfolio
+# Salman's_Portfolio
 <h1 align="center">Hi 👋, I'm Salman Siyad</h1>
 <h3 align="center">Data Scientist & AI/ML Engineer | Python & SQL Expert | Power BI Specialist Passionate about transforming raw data into actionable insights through advanced analytics, machine learning, and intuitive visualizations. Proven track record in automating workflows, optimizing model accuracy, and driving data-driven decisions.</h3>
 
